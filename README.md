@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FACC15&center=true&vCenter=true&width=1000&lines=%F0%9F%94%BA+Ashref+%E2%80%94+The+Code+Shogun+%F0%9F%94%BA;Full+Stack+Samurai+%7C+AI+Overlord+%7C+Automation+Mastermind;Conquering+Code+in+Black+%26+White;From+Algeria+to+Infinity...+%E2%9C%A8" alt="Typing SVG" />
 </h1>
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Hacker GIF">
 
 <p align="center">
   <img src="https://media.tenor.com/k1Mi1YZMMrcAAAAd/hacker-anime.gif" width="450" alt="Epic Anime Hacker" />
@@ -58,6 +59,9 @@ SHADOW_TECH:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashref2004&layout=compact&theme=dark" width="48%" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Hacker Anime Coding" />
 </p>
 
 ---
